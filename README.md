@@ -3,4 +3,5 @@
 
 - Use MySQL with XAMPP Control Panel to run the server
 
+python manage.py collectstatic
 python manage.py runserver
